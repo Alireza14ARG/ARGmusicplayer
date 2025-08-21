@@ -17,7 +17,7 @@ A modern music player built with Python, PyQt6, and pygame, featuring playlist m
 - **mutagen**: For reading MP3 metadata.
 - **PIL**: For custom album art rendering.
 
-## Demo
+## video
 - **Video**: Watch the app in action [here](https://youtu.be/_w0W9DMAzmc).
 
 
