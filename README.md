@@ -25,4 +25,4 @@ A modern music player built with Python, PyQt6, and pygame, featuring playlist m
 This project is proprietary and not open-source. See the [LICENSE](LICENSE) file for details. The source code is private to protect intellectual property. Contact me at [your-email@example.com] for inquiries or access to the full source code.
 
 ## Contact
-Reach out via [email](arg7alireza@gmail.com) , [LinkedIn](https://www.linkedin.com/in/your-profile) ,[discord](discord.gg/X5M7PqzYsk) for more information.
+Reach out via [email](arg7alireza@gmail.com) ,[telegram](t.me/arg7alireza) ,[discord](discord.gg/X5M7PqzYsk) for more information.
