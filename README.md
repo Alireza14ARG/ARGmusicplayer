@@ -1,4 +1,4 @@
-# ARGmusicplayer_demo
+# ARGmusicplayer
 
 A modern music player built with Python, PyQt6, and pygame, featuring playlist management, album art display, and equalizer presets.
 
